@@ -16,15 +16,9 @@ This demo contains two parts: training a simple digit recognition model using mn
     pip install -r requirements.txt
     ```
 
-2. Train model
 
-    Run all the cells of [train.ipynb](train.ipynb) manually or run it using runipy.
 
-    ```
-    runipy train.ipynb
-    ```
-
-3. Run demo web-app
+2. Run demo web-app
 
     Demo your model by running [app.py](app.py)
 
