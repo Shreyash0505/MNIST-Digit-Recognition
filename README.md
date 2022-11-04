@@ -2,7 +2,7 @@
 
 A simple digit recognition demo using [keras](https://www.tensorflow.org/overview) and [streamlit](https://www.streamlit.io/). It uses [streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas) for drawing on canvas.
 
-![demo](P-video.mp4)
+![demo](P-Video.mp4)
 
 [streamlit](https://www.streamlit.io/) is an open-source app framework, which is the easiest way for data scientists and machine learning engineers to create beautiful, performant apps. All in pure Python, no longer fiddling with javascript.
 
